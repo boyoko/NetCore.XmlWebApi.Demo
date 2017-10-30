@@ -1,0 +1,10 @@
+D:\code\NetCore.XmlWebApi\NetCore.XmlWebApi.Demo\bin\Debug\netcoreapp2.0\NetCore.XmlWebApi.Demo.deps.json
+D:\code\NetCore.XmlWebApi\NetCore.XmlWebApi.Demo\bin\Debug\netcoreapp2.0\NetCore.XmlWebApi.Demo.runtimeconfig.json
+D:\code\NetCore.XmlWebApi\NetCore.XmlWebApi.Demo\bin\Debug\netcoreapp2.0\NetCore.XmlWebApi.Demo.runtimeconfig.dev.json
+D:\code\NetCore.XmlWebApi\NetCore.XmlWebApi.Demo\bin\Debug\netcoreapp2.0\NetCore.XmlWebApi.Demo.dll
+D:\code\NetCore.XmlWebApi\NetCore.XmlWebApi.Demo\bin\Debug\netcoreapp2.0\NetCore.XmlWebApi.Demo.pdb
+D:\code\NetCore.XmlWebApi\NetCore.XmlWebApi.Demo\obj\Debug\netcoreapp2.0\NetCore.XmlWebApi.Demo.csproj.CoreCompileInputs.cache
+D:\code\NetCore.XmlWebApi\NetCore.XmlWebApi.Demo\obj\Debug\netcoreapp2.0\NetCore.XmlWebApi.Demo.AssemblyInfoInputs.cache
+D:\code\NetCore.XmlWebApi\NetCore.XmlWebApi.Demo\obj\Debug\netcoreapp2.0\NetCore.XmlWebApi.Demo.AssemblyInfo.cs
+D:\code\NetCore.XmlWebApi\NetCore.XmlWebApi.Demo\obj\Debug\netcoreapp2.0\NetCore.XmlWebApi.Demo.dll
+D:\code\NetCore.XmlWebApi\NetCore.XmlWebApi.Demo\obj\Debug\netcoreapp2.0\NetCore.XmlWebApi.Demo.pdb
